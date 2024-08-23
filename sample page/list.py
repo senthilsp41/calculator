@@ -1,0 +1,5 @@
+a=("ajay","kay","harash",90,78,66)
+b=list(a)
+print(b)
+b.extend(a)
+print(b)
